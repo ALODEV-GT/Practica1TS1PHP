@@ -42,7 +42,7 @@ INSERT INTO tema(nombre_usuario, titulo) VALUES('baaq', 'Proceso del cultivo de 
 INSERT INTO tema(nombre_usuario, titulo) VALUES('midk', 'Maiz y sus colores');
 INSERT INTO tema(nombre_usuario, titulo) VALUES('baaq', 'Maiz como moneda');
 
-INSERT INTO parte_tema(id_tema, titulo, contenido) VALUES(1, 'La seleccion de los mejores ejemplares de la cosecha de
+INSERT INTO parte_tema(id_tema, titulo, contenido) VALUES(1, 'Seleccion de la semilla', 'La seleccion de los mejores ejemplares de la cosecha de
  maiz es una tarea esencial en el proceso de cultivo.
 Durante esta etapa, se evalua cuidadosamente cada mazorca de maiz para determinar 
 cuales son los mejores ejemplares para ser cosechados, teniendo en cuenta tanto el grosor de la mazorca 
@@ -57,15 +57,15 @@ de almidon.
 Otro caracteristica a evaluar es la uniformidad del tamanio de los granos, algunas veces es necesario la 
 seleccion individual de cada grano para garantizar la mayor calidad de produccion. 
 
-En conlusion la seleccion de la semilla es una de lastareas mas importantes en la cual se debe dedicar
+En conlusion la seleccion de la semilla es una de las tareas mas importantes en la cual se debe dedicar
 la debida atencion. ');
 INSERT INTO parte_tema(id_tema, titulo, contenido) VALUES(1, 'Siembra', 
 'Para esta parte es necesario almenos tener estas herramientas: azadon y recipiente para la semilla (garnil),
-antes de la siembra algunas personas tienden a marcar los zurcos (filas de la cosecha) para tener una cosecha
+antes de la siembra algunas personas tienden a marcar los surcos (filas de la cosecha) para tener una cosecha
 ordenada y otros casos se usan pitas para tener exactitud tanto en las filas como en la separacion de cada 
 planta.
 
-El proceso consiste raspar la tierra seca hasta encontrar la tierra humeda, luego se procede a cabar un
+El proceso consiste raspar la tierra seca hasta encontrar la tierra humeda, luego se procede a cavar un
 agujero y poner los maices dentro, los maices deben estar distribuidos por el agujero, para que las 
 plantas no crezcan muy juntas, por ultimo se tapan los maices con tierra.
 
